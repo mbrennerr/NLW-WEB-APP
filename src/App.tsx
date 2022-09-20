@@ -11,6 +11,26 @@ function App() {
 					Buddy
 				</span>{' '}
 				está aqui.
+				<div className='grid grid-cols-6 gap-0'>
+					<a href=''>
+						<img src='/game_1.png' alt='' />
+					</a>
+					<a href=''>
+						<img src='/game_2.png' alt='' />
+					</a>
+					<a href=''>
+						<img src='/game_3.png' alt='' />
+					</a>
+					<a href=''>
+						<img src='/game_4.png' alt='' />
+					</a>
+					<a href=''>
+						<img src='/game_5.png' alt='' />
+					</a>
+					<a href=''>
+						<img src='/game_6.png' alt='' />
+					</a>
+				</div>
 			</h1>
 		</div>
 	);
