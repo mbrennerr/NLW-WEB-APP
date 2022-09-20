@@ -12,7 +12,7 @@ function App() {
 				</span>{' '}
 				está aqui.
 			</h1>
-			<div className='grid grid-cols-6 gap-6'>
+			<div className='grid grid-cols-6 gap-6 mt-16'>
 				<a href=''>
 					<img src='/game_1.png' alt='' />
 				</a>
