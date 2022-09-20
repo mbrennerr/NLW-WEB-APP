@@ -83,6 +83,22 @@ function App() {
 					</div>
 				</a>
 			</div>
+
+			<div className=' mt-8 pt-1 bg-nlw-gradient self-stretch rounded-lg overflow-hidden'>
+				<div className='bg-[#2A2634] px-8 py-6 flex justify-between items-center'>
+					<div>
+						<strong className='text-2xl text-white font-sans'>
+							Não encontrou o seu Duo?
+						</strong>
+						<span className='text-zinc-400 block'>
+							Publique um anuncio para encontrar novos Players
+						</span>
+					</div>
+					<button className='py-3 px-4 bg-violet-500 hover:bg-violet-600 text-white rounded-lg'>
+						Publicar anuncio
+					</button>
+				</div>
+			</div>
 		</div>
 	);
 }
